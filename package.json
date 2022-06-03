@@ -1,0 +1,23 @@
+{
+  "name": "express-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedshahid/Express-CRUD.git"
+  },
+  "author": "mohamed shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedshahid/Express-CRUD/issues"
+  },
+  "homepage": "https://github.com/mohamedshahid/Express-CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
